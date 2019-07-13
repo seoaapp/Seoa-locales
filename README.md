@@ -1,0 +1,1 @@
+# Seoa-locales
