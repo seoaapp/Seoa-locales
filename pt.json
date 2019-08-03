@@ -34,7 +34,7 @@
 	"su": "Sucesso!",
 	"ch": "Escolha um dos `channel, lang`.",
 	"MISS": "Você não tem permissão para isso!",
-	"min": "O limite de tempo é **1 minuto",
+	"min": "O limite de tempo é **1** minuto",
 	"Over": "%s, acabou o tempo!",
 	"IS": "[Reportar erro do Code Quiz](https://github.com/seoaapp/SeoaBot/issues/new/choose)",
 	"PR": "[Perguntar sobre o Code Quiz](https://github.com/seoaapp/SeoaBot/issues/new/choose)",
